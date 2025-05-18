@@ -1,7 +1,3 @@
-Here's a **README** file for your project:  
-
----
-
 # Singapore Resale Flat Price Prediction  
 
 ## Overview  
